@@ -2,3 +2,4 @@
 Pipfile
 pygsvd.egg-info
 build
+docker-compose.yml
