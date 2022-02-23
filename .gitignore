@@ -1,0 +1,4 @@
+.pytest_cache
+Pipfile
+pygsvd.egg-info
+build
